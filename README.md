@@ -1,4 +1,4 @@
-1. What's the Goal?
+# What's the Goal?
 - Demonstrate the ability to use the Cypress framework to test elements of a webpage. In this endeavor, I will be automating the clicking of the following menu items on the css-tricks website:
 	- Articles
 	- Videos
@@ -8,11 +8,11 @@
 	- DigitalOcean
 	- Do Community
 
-2. What is my build procedure? [Brief version]
+# What is my build procedure? [Brief version]
 - New Users:
 	- First, familiarize with the correct system requirements per the documentation! Found here: https://docs.cypress.io/guides/getting-started/installing-cypress#System-requirements
 	- Second, create a file (locally) to host my csstricks-cy project
-	- Third, run the bellow commands in terminal/command prompt
+	- Third, run the below commands in the terminal/command prompt
 		1. Change to the project path
 		2. Run `node -v` (this checks the node version you are currently running)
 		3. Run `nvm use 18` (after installing this version)
@@ -25,7 +25,7 @@
 	- Run "nvm use 18"
 	- Run "npx cypress open" AND/OR `npx cypress run` in terminal/command prompt
 
-3. What is the outcome of my project?
+# What is the outcome of my project?
 - As mentioned in the goal section, there were 7 tests in total. The code successfully showed each page after clicking each button.
 	- See gui-results for gui demo
 	- See cmd-line-results for cammand line demo
