@@ -22,8 +22,8 @@
 
 - Returning Users:
 	- Change to the correct project path in terminal
-	- Run "nvm use 18"
-	- Run "npx cypress open" AND/OR `npx cypress run` in terminal/command prompt
+	- Run `nvm use 18`
+	- Run `npx cypress open` AND/OR `npx cypress run` in terminal/command prompt
 
 # What is the outcome of my project?
 - As mentioned in the goal section, there were 7 tests in total. The code successfully showed each page after clicking each button.
